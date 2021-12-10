@@ -43,5 +43,4 @@ the Objective here is to find out the solution or the behavior changes to be tak
 ### histplot
 ### heatmap
 ### countplot
-### lineplot
 ### confusion matrix
